@@ -8,6 +8,28 @@ This is an implementation of the Smart Rocket simulation from the Nature of Code
 
 To run the simulation, simply clone the repository and open the `index.html` file in your browser. Alternatively, you can visit the [GitHub Pages](https://ghostscypher.github.io/smart_rocket/src/index.html) for this repository.
 
+## Explanation
+
+The simulation consists of a population of rockets that are trained to reach a target. The rockets are controlled by a DNA sequence. The DNA sequence is a sequence of vectors that are used to control the movement of the rocket. The DNA sequence is mutated and crossed over to create a new generation of rockets. The rockets are trained over multiple generations to reach the target.
+
+### Population
+
+The population consists of a number of rockets. The population is initialized with a number of rockets. The population is initialized with a target. The population is initialized with a mutation rate. The population is initialized with a lifespan. The population is initialized with a count. The population is initialized with a generation.
+
+### Rocket
+
+The rocket consists of a position. The rocket consists of a velocity. The rocket consists of an acceleration. The rocket consists of a DNA sequence. The rocket consists of a fitness. The rocket consists of a completed flag. The rocket consists of a crashed flag.
+
+### DNA
+
+The DNA consists of a sequence of vectors. The DNA consists of a mutation rate.
+
+### Important genetic algorithm functions
+
+1. `crossover()`: This function is used to create a new DNA sequence by crossing over two DNA sequences.
+2. `mutate()`: This function is used to mutate a DNA sequence.
+3. `calculateFitess()`: This function is used to evaluate the fitness of a rocket.
+
 ## Using the simulation
 
 The simulation is very simple to use. The simulation will start automatically when the webpage is loaded.

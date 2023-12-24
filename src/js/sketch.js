@@ -6,8 +6,8 @@ let prev_generation = 0;
 let target;
 
 function setup() {
-    // createCanvas(windowWidth, windowHeight);
-    createCanvas(600, 600)
+    createCanvas(windowWidth, windowHeight);
+    // createCanvas(600, 600)
     target = createVector(random(width), random(height - 500, height));
 
     // Create a new population of rockets

@@ -28,7 +28,7 @@ class Rocket {
     createDNA() {
         this.dna = [];
 
-        for (let i = 0; i < 200; i++) {
+        for (let i = 0; i < 400; i++) {
             let vector = createVector(random(-1, 1), random(-1, 1));
 
             // Set the vector direction to be always upwards
