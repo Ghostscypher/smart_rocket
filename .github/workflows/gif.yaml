@@ -71,7 +71,7 @@ jobs:
           no_scoll: true
 
           # The time between frames
-          time_between_frames: 40
+          time_between_frames: 100
 
       # Push the output branch
       - name: Push the output branch
