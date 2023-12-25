@@ -41,11 +41,11 @@ The simulation is very simple to use. The simulation will start automatically wh
 
 ## Demo
 
-<iframe src="https://ghostscypher.github.io/smart_rocket/src/index.html" title="Quadtree" width="100%" height="500px"></iframe>
+<iframe src="https://ghostscypher.github.io/smart_rocket/src/index.html" title="Smart Rockets" width="100%" height="500px"></iframe>
 
 ## References
 
-1. [Quadtree](https://en.wikipedia.org/wiki/Quadtree)
+1. [Quadtree](https://en.wikipedia.org/wiki/genetic_algorithm)
 2. [P5 JS](https://p5js.org/)
 3. [P5 JS Reference](https://p5js.org/reference/)
 4. [P5 JS Examples](https://p5js.org/examples/)
