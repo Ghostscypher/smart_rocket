@@ -41,7 +41,7 @@ The simulation is very simple to use. The simulation will start automatically wh
 
 ## Demo
 
-<img src="https://raw.githubusercontent.com/ghostscypher/smart_rocket/output/demo.gif" alt="Quadtree GIF" />
+<img src="https://raw.githubusercontent.com/ghostscypher/smart_rocket/output/demo.gif" width="800" height="800" alt="Quadtree GIF" />
 
 ## References
 
