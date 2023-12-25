@@ -64,14 +64,14 @@ jobs:
           final_width: 800
           final_height: 600
 
-          # The number of frames to capture
-          number_of_frames: 500
+          # The number of frames to capture (the more frames, the longer the gif)
+          number_of_frames: 800
 
           # Do not scroll the page
           no_scoll: true
 
           # The time between frames
-          time_between_frames: 10
+          time_between_frames: 40
 
       # Push the output branch
       - name: Push the output branch
