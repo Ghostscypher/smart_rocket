@@ -58,14 +58,14 @@ jobs:
           save_path: "/build/"
           # The browser to use
           window_width: 800
-          window_height: 600
+          window_height: 800
 
           # the size of the gif
           final_width: 800
-          final_height: 600
+          final_height: 800
 
           # The number of frames to capture (the more frames, the longer the gif)
-          number_of_frames: 800
+          number_of_frames: 1200
 
           # Do not scroll the page
           no_scoll: true
